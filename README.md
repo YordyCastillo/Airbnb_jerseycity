@@ -1,5 +1,5 @@
 # Airbnb_jerseycity
-An analysis on jersey city's 2021 airbnb dataset 
+An analysis on jersey city's 2021-2022 airbnb dataset 
 1. Installations
 
 2. Project Motivation
