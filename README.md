@@ -34,6 +34,7 @@ The results of the analysis are summarized as follows:
 - The presence of amenities has an impact on the pricing of listings, with listings offering more amenities commanding higher prices.
 
 Please refer to the `Jersey_City_Airbnb_Analysis.ipynb` notebook for detailed analysis and visualizations.
+To look at the accompanying blog post here is the link:  https://medium.com/@yordyjc24/beyond-the-bridges-what-we-learned-from-analyzing-jersey-citys-airbnb-listings-bd9bf5850578 
 
 ## Acknowledgements
 
